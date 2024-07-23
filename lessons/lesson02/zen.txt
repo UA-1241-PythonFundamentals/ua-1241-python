@@ -7,7 +7,7 @@ Mariia Chernyshova
 Oleh Kuzmych
 Oleksandr Vasylyovych
 Vladyslav Volosheniuk
-Yurii Kopka
+Errors should never pass silently.
 Антон Шулежко
 Volodymyr Dolynka
 Yuliia Semeniuk
