@@ -16,7 +16,7 @@ Yurii Stehnytskyi
 867988
 Anatolii Rudenko
 Andriana Barabash
-Andrii Khomik
+Namespaces are one honking great idea -- let's do more of those!
 Arthur Krasavin
 Gran46
 Ivan Bonchak
