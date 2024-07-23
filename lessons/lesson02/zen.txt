@@ -6,7 +6,7 @@ Maksym Hordiiiets
 Mariia Chernyshova
 Oleh Kuzmych
 Oleksandr Vasylyovych
-Vladyslav Volosheniuk
+Although practicality beats purity.
 Errors should never pass silently.
 Антон Шулежко
 Volodymyr Dolynka
