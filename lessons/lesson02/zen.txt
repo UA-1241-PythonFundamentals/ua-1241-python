@@ -2,7 +2,7 @@ Dmytro Makovskyi
 greenix9052
 Simple is better than complex.
 Kucher Rostyslav
-Maksym Hordiiiets
+Flat is better than nested.
 Mariia Chernyshova
 Oleh Kuzmych
 Oleksandr Vasylyovych
@@ -21,7 +21,7 @@ Arthur Krasavin
 Gran46
 Ivan Bonchak
 Kostiantyn Diakov
-Maksym Hordiiiets
+Flat is better than nested.
 Oleksandr Chereshnev
 Oleksandr Nastasiiienko
 Sofia Melnyk
