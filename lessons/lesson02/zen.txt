@@ -8,7 +8,7 @@ Oleh Kuzmych
 Oleksandr Vasylyovych
 Although practicality beats purity.
 Errors should never pass silently.
-Антон Шулежко
+Unless explicitly silenced.
 Volodymyr Dolynka
 Yuliia Semeniuk
 Yurii Stehnytskyi
