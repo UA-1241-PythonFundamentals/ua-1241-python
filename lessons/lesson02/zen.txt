@@ -19,7 +19,7 @@ Andriana Barabash
 Namespaces are one honking great idea -- let's do more of those!
 Arthur Krasavin
 Gran46
-Ivan Bonchak
+Simple is better than complex.
 Kostiantyn Diakov
 Flat is better than nested.
 Oleksandr Chereshnev
