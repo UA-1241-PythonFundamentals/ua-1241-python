@@ -1,12 +1,11 @@
 Beautiful is better than ugly.
 greenix9052
 Simple is better than complex.
-Kucher Rostyslav
+Complex is better than complicated.
 Flat is better than nested.
 Mariia Chernyshova
 Oleh Kuzmych
 Special cases aren't special enough to break the rules.
-Although practicality beats purity.
 Errors should never pass silently.
 Unless explicitly silenced.
 Volodymyr Dolynka
@@ -28,4 +27,4 @@ Sofia Melnyk
 Vadym Slobodianiuk
 Vitalii Ostapovets
 Vladyslav Datsenko
-Vladyslav Dmytruk
+In the face of ambiguity, refuse the temptation to guess.
