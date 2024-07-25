@@ -10,7 +10,7 @@ Errors should never pass silently.
 Unless explicitly silenced.
 Volodymyr Dolynka
 Yuliia Semeniuk
-Yurii Stehnytskyi
+There should be one-- and preferably only one --obvious way to do it.
 Костя Зейкін
 867988
 Anatolii Rudenko
