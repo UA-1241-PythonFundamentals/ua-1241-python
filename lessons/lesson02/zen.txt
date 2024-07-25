@@ -5,7 +5,7 @@ Kucher Rostyslav
 Flat is better than nested.
 Mariia Chernyshova
 Oleh Kuzmych
-Oleksandr Vasylyovych
+Special cases aren't special enough to break the rules.
 Although practicality beats purity.
 Errors should never pass silently.
 Unless explicitly silenced.
