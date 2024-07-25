@@ -3,7 +3,7 @@ greenix9052
 Simple is better than complex.
 Complex is better than complicated.
 Flat is better than nested.
-Mariia Chernyshova
+Sparse is better than dense.
 Oleh Kuzmych
 Special cases aren't special enough to break the rules.
 Errors should never pass silently.
