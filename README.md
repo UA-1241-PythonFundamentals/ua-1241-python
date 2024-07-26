@@ -4,10 +4,4 @@
 
 
 
-@lhalam Liubomyr Halamaha
-
-
-
-
-
 
