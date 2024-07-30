@@ -22,7 +22,7 @@ Simple is better than complex.
 Kostiantyn Diakov
 Flat is better than nested.
 Oleksandr Chereshnev
-Oleksandr Nastasiiienko
+Sparse is better than dense.
 Sofia Melnyk
 Special cases aren't special enough to break the rules.
 Vitalii Ostapovets
