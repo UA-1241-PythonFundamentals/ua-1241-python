@@ -28,6 +28,5 @@ Special cases aren't special enough to break the rules.
 Vitalii Ostapovets
 Vladyslav Datsenko
 In the face of ambiguity, refuse the temptation to guess.
-
 Kostia Zeykin
 Errors should never pass silently.
