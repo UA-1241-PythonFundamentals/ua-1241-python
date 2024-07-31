@@ -54,5 +54,6 @@ The Zen of Python, by Tim Peters
 52.Now is better than never.
 53.Although never is often better than *right* now.
 54.If the implementation is hard to explain, it's a bad idea.
+55. Updated line)))))))))))))))
 55.If the implementation is easy to explain, it may be a good idea.
 56.Namespaces are one honking great idea -- let's do more of those!
