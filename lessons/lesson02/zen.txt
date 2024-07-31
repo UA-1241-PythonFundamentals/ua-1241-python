@@ -16,7 +16,7 @@ There should be one-- and preferably only one --obvious way to do it.
 Anatolii Rudenko
 Andriana Barabash
 Namespaces are one honking great idea -- let's do more of those!
-If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
 Gran46
 Simple is better than complex.
 Kostiantyn Diakov
