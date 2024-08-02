@@ -16,7 +16,7 @@ There should be one-- and preferably only one --obvious way to do it.
 Anatolii Rudenko
 Andriana Barabash
 Namespaces are one honking great idea -- let's do more of those!
-Arthur Krasavin
+Namespaces are one honking great idea -- let's do more of those!
 Gran46
 Simple is better than complex.
 Kostiantyn Diakov
