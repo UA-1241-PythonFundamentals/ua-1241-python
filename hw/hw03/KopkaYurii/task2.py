@@ -15,3 +15,8 @@ print(f"The number in reverse order: {reversed_number}\n")
 
 sorted_number = ''.join(str(i) for i in sorted(list_number))
 print(f"The digits sorted in ascending order: {sorted_number}")
+
+
+
+
+##
