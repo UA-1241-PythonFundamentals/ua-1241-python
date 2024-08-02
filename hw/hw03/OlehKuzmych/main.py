@@ -52,7 +52,7 @@ for s in py_philosophy.splitlines():
            .format( s.upper(), 
                     s.rstrip('.').split(' ').count(var1), 
                     s.rstrip('.').split(' ').count(var2), 
-                    s.rstrip('.').split(' ').count(var3) ) )
+                    s.rstrip('.').split(' ').count(var3) ).replace("I","&") )
 
 
 print("\n#2\n")
