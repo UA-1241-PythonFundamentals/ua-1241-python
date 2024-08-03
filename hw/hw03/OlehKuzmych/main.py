@@ -42,7 +42,7 @@ a = 129486573
 
 result = 1
 for n in str(a):
-    result += int(n)
+    result *= int(n)
 
 print(result)
 print(int(str(a)[::-1]))
