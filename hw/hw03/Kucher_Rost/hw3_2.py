@@ -1,11 +1,6 @@
-n=7491
-product = 0
-# Converting integer to string 
-num = str(n) 
-# Traversing the string 
-for i in num: 
-    product = product + int(i) 
-print(product) 
+num=7491
+List = [int(digit) for digit in str(num)]
+print(sum(List))
 print(" ")
 
 print(str(num)[::-1])
