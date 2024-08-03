@@ -31,9 +31,9 @@ for s in py_philosophy.splitlines():
     print( template
            .upper()
            .format( s.upper(), 
-                    s.rstrip('.').split(' ').count(var1), 
-                    s.rstrip('.').split(' ').count(var2), 
-                    s.rstrip('.').split(' ').count(var3) ).replace("I","&") )
+                    s.rstrip('.!,').split(' ').count(var1), 
+                    s.rstrip('.!,').split(' ').count(var2), 
+                    s.rstrip('.!,').split(' ').count(var3) ).replace("I","&") )
 
 
 print("\n#2\n")
