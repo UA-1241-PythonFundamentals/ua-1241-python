@@ -31,24 +31,13 @@ print(zen_text.upper())
 print(zen_text.replace('i', '&'))
 
 # work with four-digit number
-num = int(input("Enter a four-digit number: "))
-given_number = num
-product = 1
-
-# count the product of all the digits in the number
-while (given_number != 0):
-    product = product * (given_number % 10)
-    given_number = given_number // 10
+num = input("Enter a four-digit number: ")
+product = int(num[0]) * int(num[1]) * int(num[2]) * int(num[3])
 
 print("Product of the digits of your four-digit number is", product)
 
 # reverse the number
-given_number = num 
-reversed_num = 0
-while (given_number != 0):
-    right_digit = given_number % 10
-    reversed_num = reversed_num * 10 + right_digit
-    given_number = given_number // 10
+reversed_num = num[3] + num[2] + num[1] + num[0]
 
 print("Reversed number is", reversed_num)
 
