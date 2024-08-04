@@ -13,7 +13,7 @@ Yuliia Semeniuk
 There should be one-- and preferably only one --obvious way to do it.
 ?????????? ????????????
 867988
-Anatolii Rudenko
+Although never is often better than *right* now.
 Andriana Barabash
 Namespaces are one honking great idea -- let's do more of those!
 Namespaces are one honking great idea -- let's do more of those!
