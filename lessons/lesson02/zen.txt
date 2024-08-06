@@ -1,5 +1,5 @@
 Beautiful is better than ugly.
-greenix9052
+Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
 Flat is better than nested.
@@ -21,7 +21,7 @@ Gran46
 Simple is better than complex.
 Kostiantyn Diakov
 Flat is better than nested.
-Oleksandr Chereshnev
+Flat is better than nested.
 Sparse is better than dense.
 Readability counts.
 Special cases aren't special enough to break the rules.
