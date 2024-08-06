@@ -2,8 +2,4 @@
 
 
 
-
-
-
-
-
+@lhalam Liubomyr Halamaha
