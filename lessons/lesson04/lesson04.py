@@ -202,16 +202,22 @@
 #     case _:
 #         print("Other error")
 
-values = input("comands: ").split()
-print(values)
-match values:
-    case "load", link:
-        print(f"load: {link}")
-    case "save", link, filename:
-        print(f"save: {link} >> {filename}")
-    case "save", link, *filenames:
-        print(f"save: {link} >> ")
-        for filename in filenames:
-           print(f"\t\t {filename}")
-    case _:
-        print(f"default(values)")
+# values = input("comands: ").split()
+# print(values)
+# match values:
+#     case "load", link:
+#         print(f"load: {link}")
+#     case "save", link, filename:
+#         print(f"save: {link} >> {filename}")
+#     case "save", link, *filenames:
+#         print(f"save: {link} >> ")
+#         for filename in filenames:
+#            print(f"\t\t {filename}")
+#     case _:
+#         print(f"default(values)")
+def X_O(word):
+    word = word.lower()
+    cout_x = word.count('x')
+    cout_o = word.count('o')
+    if cout_x == cout_o:
+        print(True)
