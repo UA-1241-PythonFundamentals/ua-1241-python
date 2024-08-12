@@ -11,7 +11,6 @@ def fibonacci(n):
         fib_sequence.append(next_fib)
     return fib_sequence
 
-# Get user input
 number = int(input("Enter a number: "))
 print(f"Fibonacci numbers up to {number}: {fibonacci(number)}")
 
