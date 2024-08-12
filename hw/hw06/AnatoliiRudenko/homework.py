@@ -1,7 +1,7 @@
 even=[]
 odd=[]
 notdivby2and3=[]
-for i in range(1,10):
+for i in range(1,11):
     if i%2==0:
         even.append(i)
     elif i%2==1 and i%3==0:
