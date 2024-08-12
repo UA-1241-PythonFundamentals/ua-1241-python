@@ -24,4 +24,3 @@ while not i=="q":
         break
     else:
         print("Error")
-
