@@ -1,23 +1,23 @@
-# """Task 1"""
-#
-#
-# def lagest_number(lst):
-#     """This function returns the largest number of two receiving from user"""
-#     lst.sort()
-#     print(lst)
-#     return print(f"Наибольшее из введённых чисел: {lst[1]}")
-#
-#
-# user_input = input("Пожалуйста, введите два числа через запятую: ")
-# if "," in user_input:
-#     user_input = user_input.replace(" ", "").split(",")
-#     if user_input[0].isdigit() and user_input[1].isdigit():
-#         user_input = list(map(int, user_input))
-#         lagest_number(user_input)
-#     else:
-#         print("Вы ввели не числа.")
-# else:
-#     print("Пожалуйста, введите числа именно через запятую.")
+"""Task 1"""
+
+
+def largest_number(lst):
+    """This function returns the largest number of two receiving from user"""
+    lst.sort()
+    print(lst)
+    return print(f"Наибольшее из введённых чисел: {lst[1]}")
+
+
+user_input = input("Пожалуйста, введите два числа через запятую: ")
+if "," in user_input:
+    user_input = user_input.replace(" ", "").split(",")
+    if user_input[0].isdigit() and user_input[1].isdigit():
+        user_input = list(map(int, user_input))
+        largest_number(user_input)
+    else:
+        print("Вы ввели не числа.")
+else:
+    print("Пожалуйста, введите числа именно через запятую.")
 
 """Task 2"""
 
@@ -51,7 +51,7 @@ def area_triangle():
 
 
 def area_circle():
-    radius = input("Пожалуйста, укажите радус круга для расчёта его площади: ")
+    radius = input("Пожалуйста, укажите радиус круга для расчёта его площади: ")
     if radius.isdigit():
         print(f"Площадь круга с радиусом {radius} равна: ", 3.14 * (int(radius)**2))
     else:
@@ -70,3 +70,20 @@ if user_input.isdigit() and int(user_input) in (1, 2, 3):
         area_circle()
 else:
     print("Пожалуйста, сделайте выбор из указанных вариантов.")
+
+"""Task 3"""
+
+
+def count_letter(user_input):
+    for letter in user_input:
+        if letter != " ":
+            number_characters[letter] = user_input.count(letter)
+        else:
+            continue
+
+    return print(number_characters)
+
+
+number_characters = {}
+user_string = input("Пожалуйста, введите любую строку: ").lower()
+count_letter(user_string)
