@@ -8,3 +8,4 @@ def area_circle(r):
     area=math.pi*math.pow(r,2)
     print(area)
 
+

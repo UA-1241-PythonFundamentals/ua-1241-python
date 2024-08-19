@@ -22,3 +22,4 @@ elif figure=="triangle":
 else:
     print("Wrong shape")
 
+
