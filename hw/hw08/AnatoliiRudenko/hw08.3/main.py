@@ -21,3 +21,4 @@ elif figure=="triangle":
     module.area_triangle(height, base)
 else:
     print("Wrong shape")
+
