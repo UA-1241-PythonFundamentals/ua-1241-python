@@ -14,6 +14,9 @@ DELTA_STEP = 5
 BLACK_COLOR = (0, 0, 0)
 RED_COLOR = (250, 0, 0)
 
+vel_x = 2
+vel_y = 2
+
 pygame.init()
 
 gameDisplay = pygame.display.set_mode((WIDTH_DISPLAY, HEIGHT_DISPLAY), pygame.RESIZABLE)
@@ -39,6 +42,14 @@ while run:
         COORD_Y -= DELTA_STEP
     if keys[pygame.K_DOWN] and COORD_Y + HEIGHT_RECTANGLE + DELTA_STEP <= HEIGHT_DISPLAY:
         COORD_Y += DELTA_STEP
+
+    COORD_X += vel_x
+    COORD_Y += vel_y
+
+    if COORD_X <= 0 or COORD_X + WIDTH_RECTANGLE >= WIDTH_DISPLAY:
+        vel_x = -vel_x
+    if COORD_Y <= 0 or COORD_Y + HEIGHT_RECTANGLE >= HEIGHT_DISPLAY:
+        vel_y = -vel_y
 
     gameDisplay.fill(BLACK_COLOR) 
 
