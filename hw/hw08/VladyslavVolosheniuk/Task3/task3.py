@@ -25,4 +25,4 @@ if calculates == "2":
 if calculates == "3":
     r=float(input("Enter r: "))
     s=formuls.area_circle(r)
-    print(f"The area of a circle {s}")
+    print(f"The area of a circle {s}") 
