@@ -3,6 +3,13 @@ def largeN(a, b):
     the largest number of two
     numbers."""
     if a>b:
-        print(a)
+        res = a
+        return res
     else:
-        print(b)
+        res = b
+        return res
+    
+a = input("Enter first value for compair: ")
+b = input("Enter second value for compare: ")
+
+print(largeN(a, b))
