@@ -162,3 +162,4 @@ cython_debug/
 .idea/
 *.my_log
 .DS_Store
+/hw/hw09/Kostia Zeykin/Pandas_NumPy/Data for the task/
