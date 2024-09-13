@@ -31,4 +31,3 @@ def weekday():
             raise ValueError
     except ValueError:
         print("Wrong value")
-
