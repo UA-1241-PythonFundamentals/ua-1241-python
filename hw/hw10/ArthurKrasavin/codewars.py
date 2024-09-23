@@ -88,6 +88,5 @@ class Test:
 
 NewTest = change_class_name(Test, "NewTest")
 
-# Перевірка:
-print(NewTest().hello())  # Виведе: Hello from Test
-print(NewTest.__name__)   # Виведе: NewTest
+print(NewTest().hello())
+print(NewTest.__name__)
